@@ -1,3 +1,4 @@
+//code by jaitn chourasiya 
 #include <iostream>  
 using namespace std;  
 int main()  
